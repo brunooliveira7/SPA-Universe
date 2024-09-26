@@ -1,7 +1,7 @@
 <h1 align="center"> SPA Universe </h1>
 
 <p align="center">
-SPA Universe é uma aplicação web que carrega uma única página HTML e, conforme o usuário interage com o site, o conteúdo é dinamicamente atualizado sem recarregar a página inteira.
+SPA Universe é um website que carrega uma única página HTML o conteúdo, que é dinamicamente atualizado sem recarregar a página inteira, conforme o usuário interage com o site.
 </p>
 
 <p align="center">
