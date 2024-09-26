@@ -8,7 +8,7 @@
   font-size: clamp(40%, 1% + 2rem, 62.5%);
   --text-color: #e1e1e6;
   --white-color: #fff;
-  --grey-color: #c4c4cc;
+  --btn-color: #02799d;
 }
 
 html,
@@ -82,4 +82,16 @@ button {
   text-transform: uppercase;
   width: 22rem;
   height: 3.7rem;
+}
+
+button:hover {
+  color: var(--btn-color);
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 0.3125rem;
+  border: .2rem solid #fff;
+  background: var(--white-color);
+  cursor: pointer;
 }
