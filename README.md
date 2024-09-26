@@ -41,7 +41,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/PMvBs7Pdmy7mxiAhBMbEsT/Stage-05---Focus-Timer-2.0-(Copy)?node-id=0-1&node-type=canvas&t=ZmyGMYzJJBC0rOdt-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/kqpfyNjEAbl1FOFpi5hSdu/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=0-1&node-type=canvas&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
