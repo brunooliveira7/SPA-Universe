@@ -21,6 +21,7 @@ body {
   font-size: 1.6rem;
   background: url(../../assets/mountains-universe-2.png) no-repeat center
     center/cover;
+  height: 100vh;
 }
 
 /*Universe*/
@@ -30,7 +31,6 @@ section {
   flex-direction: column;
   margin: 20rem 0 0 10rem;
   gap: 2rem;
-  
 }
 
 section h1 {
