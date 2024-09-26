@@ -19,7 +19,7 @@ button {
 
 body {
   font-size: 1.6rem;
-  background: url(../../assets/mountains-universe-1.png) no-repeat top
+  background: url(../../assets/mountains-universe-1.png) no-repeat center
     center/cover;
   height: 100vh;
 }
@@ -60,7 +60,7 @@ main {
   gap: 2.4rem;
 }
 
-h1 {
+main h1 {
   color: var(--text-color);
   font-size: 4.8rem;
   font-weight: 700;
