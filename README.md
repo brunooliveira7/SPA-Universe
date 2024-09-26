@@ -12,7 +12,15 @@ SPA Universe é uma aplicação web que carrega uma única página HTML e, confo
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/SPA-Universe/blob/main/assets/Layout1.png">
+</p>
+
+<p align="center">
+  <img alt="License" src="https://github.com/brunooliveira7/SPA-Universe/blob/main/assets/Layout2.png">
+</p>
+
+<p align="center">
+  <img alt="License" src="https://github.com/brunooliveira7/SPA-Universe/blob/main/assets/Layout3.png">
 </p>
 
 <br>
